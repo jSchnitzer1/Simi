@@ -9,7 +9,8 @@ import util.control.Breaks._
 class Shingling(k: Int = 9) {
   var hashedShingles: ListBuffer[Set[Int]] = ListBuffer()
   var filesCount: Int = 0
-  val shingles = Map.empty[Int, Int]
+  val shingles = LinkedHashMap.empty[Int, Int]
+  private[this] var shingleIndex: Int = 0
 
   def run(dir: String = "./dataset"): Unit = {
 
@@ -34,6 +35,7 @@ class Shingling(k: Int = 9) {
     println("Hashed shingling done")
     //hashedShingles.foreach(println)
     //shingles foreach { case (key, value) => println(key + "-->" + value) }
+
   }
 
   private def getShingles(text: String): Set[Int] = {
@@ -41,9 +43,10 @@ class Shingling(k: Int = 9) {
     for (i <- 0 to text.length - k) {
       var shingle = text.substring(i, i + k)
       hashedShingle += shingle.hashCode
-      //shingles.getOrElseUpdate(shingle.hashCode, shingle)
+      shingles.getOrElseUpdate(shingle.hashCode, shingleIndex)
+      shingleIndex += 1
       //println(s"loop1: $shingle is $i")
     }
-    return hashedShingle
+    hashedShingle
   }
 }

@@ -2,9 +2,9 @@ package similarity
 
 object Main {
   def main(args: Array[String]): Unit = {
-    val shingling = new Shingling(9)
+    val shingling = new Shingling()
     val compareSets = new CompareSets()
-    shingling.run("./dataset")
+    shingling.run()
 
     (1 until shingling.filesCount) foreach { i =>
       val similarity = compareSets.jacardSimilarity(shingling.hashedShingles(0), shingling.hashedShingles(i))
