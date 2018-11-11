@@ -1,62 +1,64 @@
- I had to uninstall anti, virus and selected other programs, some of which did not have listings in the  Programs and Features  Control Panel section .
- This review briefly touches upon some of the key features and enhancements of Microsoft's latest OS .
- All of these features combine to create a much improved and enjoyable desktop experience .
-I enjoyed the new convenience features in Windows 7 .
- They showed me PC laptops that had more features than the MacBook, and which cost way less than the MacBook, too .
- But that aside, I like the availability of software, the new features like the improved Taskbar, Windows Peek, and the Aero environment .
-If you're used to OS X, but want to come into the PC world where things cost less and you get more features, by all means consider Windows 7 the stepping stone to do just that .
- After seeing the pricing on the newest MacBooks this week, and the limited features compared to what I currently own, I have to say that now is the right time to consider that switch to PC .
- These new features make the user experience much more superior than anything Windows has ever offered .
- Also there are some other new things such as touch gesture features and disk encryption that normal users won't use either because it isn't needed or the hardware isn't widely adopted yet   .
- You can read all the new features in your Windows 7 short version handbook .
- But what I really like about Windows 7 are the new and improved features it offers .
-Also in Windows Explorer, two new features .
-All the nifty new features mean squat if my computers don't function properly .
-, then Vista, but if so, none of its features have been impressive enough to have blown me away .
- It does have some nice features .
- W7 is fast and resource friendly, every hardware device works perfect  , and there's a ton of great features .
- Runs well, but no stand out new features for my usage .
-Having used Windows ME and XP for several years, and before upgrading, Vista, I heard a lot of great things about Windows 7, as well as new features .
- I liked the built, in features of Vista and of course the appearance, but I prefered the stability and speed of XP even with a high, end system .
-,  Better user interface features like being able to view the desktop with one mouse gesture to the bottom right of the screen .
-LEAST useful features of Windows 7 to me :
- They're features I don't use .
- Windows 7 Ultimate is there too off course, but I personally can't bring myself to spend that much more money just to get a tiny few features that I know I will never use like multi, language support and BitLocker .
- It's loaded with useful features .
- It has some features that I personally don't find useful, BUT if in the future I do need them, they're there .
- There are many features that allow me to personalize my working environment .
-   Vista has more features than XP, but many of them didn't make the OS more usable for me .
- Personally I thought Vista was very handsome, what with its transparency, 3, D effects, color schemes, and usability improvements to Windows Explorer, and I believe Windows 7 continues that trend by looking just as sexy , ,  if not more , ,  while at the same time adding its own valuable features and enhancements .
- I haven't yet become accustomed to some features like Aero Shake, but hey, those things are there if I need them .
-I can't tell what positives it offers still, but it's still a nifty upgrade with a lot of nifty features over XP that make for a more fun experience for some, and a more organized experience involving navigating huge catacombs of archives and files .
- Did I mention that Win7 offers nothing in terms of any new worthwhile features ?
-0 out of 5 stars XP speed & stability, Vista, like features without the headaches !
- I really wanted to like Vista with all it's cool new features, but unfortunately it was a disaster because it just didn't work .
- And I love all the new Aero Shake Peek Snap windows features, but I still prefer Mac OS X's Expose .
-,  New features with better window and file managment
-,  Many features are copied from Mac OS X
- Of course there are some new features, and a little more eye candy if that's important to you too .
- Nice upgrade and love some of the new features, snip tool, sticky's on the desktop, Docking on the task bar and thanks for clearing the clutter on the Tray .
- W7 has some cool features that I like, and I'm sure I don't even know the half of it yet .
- I don't have a TV Tuner, so I can't take advantage of that feature, but there are other features & it seems to be working good .
-00 dollars just to upgrade for some fancy new features .
- Since my Google Sidebar had some features that I liked, it allowed me to replace it for the Windows one .
- Because others on this site have already described in sufficient detail all the amazing features of W7, I will not repeat them .
- There are so many more features of this that are very difficult to list all here .
- All   of these features have worked 100% of the time, which is previously unheard of .
- Removing a  feature  from the Programs and Features panel simply disables access to it, but the underlying program files associated with that feature remain on the hard, drive taking up space .
- I also noticed improved power management, including once of my favorite features which is the auto dimming of my laptop monitors once my computer is not being used .
-All the features of Vista, but without any of the problems .
- It still works pretty good though, just a lack of some features that i had before .
- What I will highlight are a few features of Windows 7 which I have been thoroughly impressed with .
- Perhaps my expectations were low, since Microsoft OSes tend usually to be just functional   without much pizazz or many  power user  shortcuts and features, but Windows 7 really is a well, crafted OS .
- I do not use most of the features, such as gaming, that seem to benefit most from the upgrade .
-Does the new operating system have cool features ?
- My only complaint would be that I would like to have a family pack available in the Windows Professional flavor or at least the option to purchase some of the professional features separately .
- Seems like they actually stepped it down when it should have been stepped up with more features .
- I think the reason it didn't is because it wants to force the user to use the Windows Live toolbar that includes other features similar to what Google offers .
-Smooth OS with great little features .
- A lot of the new finder desktop windows features are awkward working versions of what Mac OS X has had for a couple of years or more .
- If you didn't come over from the bright side you would probably think these features are very cool, so enjoy them for what they are if you've never played around with a Mac enough to be comfortable in that environment .
- I am not going to review the features, because there's plenty of that already .
-There is not a lot of new features in the operating system .
+Being able to change the font sizes is awesome !
+ For whatever reason, Amazon decided to make the Font on the Home Screen   than on the K1 .
+ I found myself constantly changing the angle of the body, changing the font size up and down and the distance away from me .
+ I was an avid reader but increasing age has made printed books more of a challenge, but the Kindle with its varying font size and very light weight has made reading fun again .
+ What's more, it's easy to change font size .
+ The kindle does not recognize page numbers, since they would change radically when you change font size  so Amazon provides the notion of location which is display independent .
+ I just crank the font up a notch or two and leave the readers behind .
+ My eyesight is fine, but I can choose the font size that suits me best .
+'Easy, on, the, eyes' reading with adjustable fonts and 16 shades of gray capability using digital ink :
+Maximum font size is still not big enough for people with vision problems .
+ One or two larger font sizes would have benefited the visually impaired .
+ Downloading books is easy, the screen is NOT too dark, the font size is adjustable and the Kindle customer service support is terrific .
+I know I need to go to the optometrist, but the Kindle will aide and abet me in avoiding that for a while , ,  the page is easy to read, the font size is easy to change, and my eyes sail across the words, my finger hits next page without me giving it thought .
+ The text appears slightly blurry and I have to increase the font size to read it comfortably .
+ And with the Kindle, I can adjust the font to any of six different sizes, which is of some importance to those with poor vision or tired eyes .
+ The font is clear and adjustable in size .
+ While they may not reproduce the look of a printed page, applications for these devices, such as ereader, do offer a variety of font types, background colors, and page turning mechanisms, the ability to read in either vertical or horizontal mode, and the ability to make the text scroll on the page, like a teleprompter, at a speed of your choosing .
+ The E, Ink screen is so much better than I thought and yes, I've read about the concerns people have raised about the Kindle screen and its fonts .
+ Sleek style, easy to hold, the white causes it to disappear as suggested in its description, highly transportable, well thought out button placement, easy to use, adjustable font, ease of downloading new books .
+ With good lighting   it is very readable and the adjustable font makes up for this shortcoming .
+Dictionary entries are now shown in your currently selected font size .
+ High, contrast e, ink, downloadable content, variable font size, integrated dictionary, integrated search .
+ With six font sizes, even the visually impaired could benefit from this feature .
+ Aa keys to quickly change font size, turning on off text to speech, Pause text to speech, change speech rate and speaking voice rather than using the menu .
+The font sizes are easy to switch between and very usable .
+ As advertised, it is very easy on the eyes, combined with font sizing and easy navigation this does what it was meant to do .
+ Very accessible and friendly for those with a visual impairment ,  all raised keys, font sizing, text to voice .
+azw you can change the font size of the document without the  .
+azw conversion the pdf will usually have teeny tiny unreadable font, this solves that, text to speech it, etc .
+ Due to being able to change the font it is also difficult to be able to read this for a class and reference page numbers from an actual book, but a search function that regular books , don't',  have more than makes up for this .
+ Being able to change your font size is really nice as well, but I keep mine at the lowest so I don't have to turn pages so often .
+The font size options include a slightly smaller font that before, , looks great .
+ I use the second smallest font 90% of the time and I do find I need a little extra light where I wouldn't have when reading a normal book .
+ I also really enjoy the ability to change font sizes, they are pretty close to large print books .
+ As I get sleepier, I like to enlarge the font, which is a nice feature .
+ Seemed like the perfect thing for an ex, avid reader, since you can change font size, have it read to you, download newspapers and magazines, and you don't have to drive to the book store or library !
+ The clarity of the screen makes even the smallest font readable .
+ Using the smaller font sizes causes eye strain except in daylight conditions with open windows .
+ The print appears faded especially with the smaller font sizes .
+ This allows only about 2 paragraphs of text to be visualised at a time at medium font size .
+ I have changed the font size so that it is so easy to see .
+ A couple of books I've purchased aren't great, fontwise .
+ Most books, however, are very easy to read, and the variable font size enables me to find the font size that works best for me .
+ While not as much text fits on a screen as on a mass, market paperback page using the font size I like, pushing the  next page  button has become second nature .
+ It's also easy to make the font larger whenever necessary, like when my eyes are tired .
+1All the fonts look exactly the same, regardless of the book .
+ Easy on the eyes, font size can be changed and the book will even read to you if you want it too !
+ It's lightweight and allows changes in font size that enables ease of reading no matter how tired your eyes may get .
+ I also like that the amount of whitespace   as well as font size on, screen is configurable .
+ I can still make out words with the use of strong glasses and setting the font to the largest possible on the Kindle2 .
+ I like the small size, the grey colour background is relaxing, and its good to be able to change the size of the font .
+I can make the font the perfect size for my eyes .
+ Although I'm turning pages quicker, my eyes are much less tired by using a bigger font .
+ It is quick and responsive and reading from the default font is easy .
+ Because of the ability to change the font size on the KINDLE she was able to once again start reading a book .
+ Everyone looking into the Kindle has probably heard about the font smoothing contrast issue which is exacerbated by the bright whiteness of the unit's housing .
+ However, just last night, I ran across a couple of user fixes for the font smoothing problem, and I've already put a  skin  on mine so that the contrast between the ePaper display's gray background and the  frame's  white is no longer an issue .
+ I have a bit of macular degeneration, and when reading the Kindle, for some reason, that little blurry spot does not show up, and this is at a small font .
+The Kindle 2 is lightweight, easy to hold, easy to read, and I love the fact that I can change the size of the font, depending on my situation .
+ I am in my 50's and the reading vision isn't great so changing the font is a blessing .
+ The interface is a bit like reading newsprint, though you can change the font size to 6 or 8 different settings .
+ It is so much easier to read than a paper page and you can adjust the font size as needed .
+it's just like reading a paper book, but BETTER because you can increase the font size !
+font sizes and page orientation can be adapted to the reader's needs .

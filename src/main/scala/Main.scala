@@ -8,7 +8,7 @@ object Main {
       return
     }
 
-    val shingling = new Shingling(reader.textFiles, reader.filesCount)
+    val shingling = new Shingling(reader.textFiles, reader.filesCount, 9)
     val compareSets = new CompareSets()
     shingling.run()
 
@@ -25,6 +25,21 @@ object Main {
 
     shingling.computeBoleanMatrix()
     shingling.printBooleanMatrix(15)
+
+    val minHashing = new MinHashing(shingling.booleanMatrix)
+    val signaturesList = minHashing.computeSignature()
+
+    println("Signatures List:")
+    (0 until signaturesList.size) foreach { i =>
+      println(signaturesList(i))
+    }
+
+    println("\nCompare Signatures")
+    val compareSignatures = new CompareSignatures()
+    (1 until reader.filesCount) foreach { i =>
+      val similarity = compareSignatures.similarity(signaturesList(0), signaturesList(i))
+      println(s"Similarity between document signature 1 and document ${i+1} is: ${similarity * 100}%")
+    }
   }
 
   def toInt(s: String): Int = {
