@@ -7,7 +7,7 @@ class MinHashing(booleanMatrix: Array[Array[Int]], sSize: Int = 100) {
   val a: List[Int] = List.fill(sSize)(r.nextInt(sSize))
   val b: List[Int] = List.fill(sSize)(2*r.nextInt(sSize) + 1)
 
-  def computeSignature(): ListBuffer[ListBuffer[Int]] = {
+  def computeSignatures(): ListBuffer[ListBuffer[Int]] = {
     val listOfSignatures: ListBuffer[ListBuffer[Int]] = ListBuffer()
     var rowId: Int = 0
 
