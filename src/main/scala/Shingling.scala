@@ -4,7 +4,7 @@ import scala.collection.mutable._
 import util.control.Breaks._
 
 
-class Shingling(filesText: List[String], filesCount: Int, k: Int = 3) {
+class Shingling(filesText: List[String], filesCount: Int, k: Int = 5) {
   var hashedShingles: ListBuffer[Set[Int]] = ListBuffer()
   val shingles = LinkedHashMap.empty[Int, Int]
   var booleanMatrix: Array[Array[Int]] = null

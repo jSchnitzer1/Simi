@@ -8,7 +8,7 @@ object Main {
       return
     }
 
-    val shingling = new Shingling(reader.textFiles, reader.filesCount, 9)
+    val shingling = new Shingling(reader.textFiles, reader.filesCount)
     val compareSets = new CompareSets()
     shingling.run()
 

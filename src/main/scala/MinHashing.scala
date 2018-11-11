@@ -2,7 +2,7 @@ package similarity
 
 import scala.collection.mutable._
 
-class MinHashing(booleanMatrix: Array[Array[Int]], sSize: Int = 500) {
+class MinHashing(booleanMatrix: Array[Array[Int]], sSize: Int = 100) {
   val r = scala.util.Random
   val a: List[Int] = List.fill(sSize)(r.nextInt(sSize))
   val b: List[Int] = List.fill(sSize)(2*r.nextInt(sSize) + 1)
