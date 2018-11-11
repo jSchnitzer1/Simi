@@ -2,11 +2,17 @@ package similarity
 
 object Main {
   def main(args: Array[String]): Unit = {
-    val shingling = new Shingling
+    val reader = new Reader()
+    if(reader.filesCount == 0) {
+      println("Unable to load the dataset! please check the path.")
+      return
+    }
+
+    val shingling = new Shingling(reader.textFiles, reader.filesCount)
     val compareSets = new CompareSets()
     shingling.run()
 
-    (1 until shingling.filesCount) foreach { i =>
+    (1 until reader.filesCount) foreach { i =>
       val similarity = compareSets.jaccardSimilarity(shingling.hashedShingles(0), shingling.hashedShingles(i))
       println(s"Similarity between document 1 and document ${i+1} is: ${similarity * 100}%")
     }

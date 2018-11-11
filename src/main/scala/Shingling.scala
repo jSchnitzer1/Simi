@@ -1,42 +1,23 @@
 package similarity
 
 import scala.collection.mutable._
-import java.io._
-import java.nio.charset.CodingErrorAction
 import util.control.Breaks._
 
 
-class Shingling(k: Int = 3) {
+class Shingling(filesText: List[String], filesCount: Int, k: Int = 3) {
   var hashedShingles: ListBuffer[Set[Int]] = ListBuffer()
-  var filesCount: Int = 0
   val shingles = LinkedHashMap.empty[Int, Int]
   var booleanMatrix: Array[Array[Int]] = null
   private[this] var shingleIndex: Int = 0
 
   /**
-    * This function fetches all documents as text strings
-    * and runs shingling functionality
+    * runs shingling functionality
     * @param dir is the directory of dataset
     */
-  def run(dir: String = "./dataset"): Unit = {
-
-    val d = new File(dir)
-    if (!d.exists || !d.isDirectory) {
-      return // no dataset available
-    }
-
-    val files = d.listFiles.filter(file => !file.isHidden && file.isFile).toList.sortWith(_.getName.replaceAll("\\.[^.]*$", "").toInt < _.getName.replaceAll("\\.[^.]*$", "").toInt)
-    implicit val codec = io.Codec("UTF-8")
-    codec.onMalformedInput(CodingErrorAction.IGNORE)
-    codec.onUnmappableCharacter(CodingErrorAction.IGNORE)
-
-    files.foreach { file =>
-      val source = scala.io.Source.fromFile(file)
-      val text = try source.mkString finally source.close()
+  def run(): Unit = {
+    filesText.foreach { text =>
       hashedShingles += getShingles(text)
-      filesCount += 1
     }
-
     println("Hashed shingling done")
 
     //hashedShingles.foreach(println)
