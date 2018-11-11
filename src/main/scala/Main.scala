@@ -60,6 +60,7 @@ object Main {
   }
 
   def time[R](block: => R): R = {
+    // http://biercoff.com/easily-measuring-code-execution-time-in-scala/
     val t0 = System.nanoTime()
     val result = block
     val t1 = System.nanoTime()
