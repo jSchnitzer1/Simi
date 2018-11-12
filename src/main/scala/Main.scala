@@ -63,7 +63,8 @@ object Main {
     val t0 = System.nanoTime()
     val result = block
     val t1 = System.nanoTime()
-    println(s"Elapsed time for $timingType: ${(t1 - t0).toString} ns")
+    val diff = (t1 - t0)
+    println(s"Elapsed time for $timingType: ${diff.toString} ns ≈ ${(diff / 1000000).toString} ms")
     result
   }
 }
